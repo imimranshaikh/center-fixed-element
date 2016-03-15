@@ -1,1 +1,1 @@
-"# center-fixed-element" 
+Negative margins are exactly half the height and width, which pull the element back into perfect center. Only works with elements of a fixed height/width.
